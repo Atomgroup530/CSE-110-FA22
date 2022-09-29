@@ -3,6 +3,7 @@
 
 > Start early, start often.
 
+---
 ## **MENU**
 ---
   - [**BIO**](#bio)
