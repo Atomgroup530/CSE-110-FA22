@@ -11,7 +11,7 @@
   - [**Leetcode Example**](#leetcode-example)
   - [**CHECKLIST**](#checklist)
   - [EASTEREGG](profiles/Face-Reveal.jpg)
-[private](PRIVATE.txt)
+[#private](PRIVATE.txt)
 ## **BIO**
 ---
 Hi, I'm Xun Liu 柳逊, 3rd year Computer Engineering student from Tianjin, China. I choose this major because solving prolems with softwares is fun and useful. I'm currently looking for an intern position in software engineering.
