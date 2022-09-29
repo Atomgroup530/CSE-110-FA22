@@ -1,6 +1,8 @@
 # Xun Liu 柳逊
 ![profile](profiles/Profile.jpg)
+
 > Start early, start often.
+
 ## **MENU**
 ---
   - [**BIO**](#bio)
