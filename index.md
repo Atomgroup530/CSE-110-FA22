@@ -1,15 +1,13 @@
 # Xun Liu 柳逊
 ![profile](profiles/Profile.jpg)
-
 > Start early, start often.
 ## **MENU**
 ---
-- [Xun Liu 柳逊](#xun-liu-柳逊)
-  - [## **MENU**](#-menu)
-  - [## **BIO**](#-bio)
-  - [## **SKILLS**](#-skills)
-  - [### **Leetcode Example**](#-leetcode-example)
-  - [## **CHECKLIST**](#-checklist)
+  - [**BIO**](#bio)
+  - [**SKILLS**](#skills)
+  - [**Leetcode Example**](#leetcode-example)
+  - [**CHECKLIST**](#checklist)
+  - [EASTEREGG](profiles/Face-Reveal.jpg)
 
 ## **BIO**
 ---
@@ -31,7 +29,7 @@ Let me know if we share the same hobby, interest, or career goals :)
    - Proficiency in explaining class material in ***words and drawings***
    - Proficiency in ***communication*** and ***teamwork skills***
 
-### **Leetcode Example**
+### Leetcode Example
 ---
 [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 ```
