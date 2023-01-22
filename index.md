@@ -34,6 +34,5 @@ Let me know if we share the same hobby, interest, or career goals :)
 
 ### **Videos**
 ---
-1.  
-   [Show What You Know: Explain Your Program](https://github.com/Atomgroup530/CSE-110-FA22.git)
+1. [Show What You Know: Explain Your Program](https://youtu.be/8Wdxqa5fE68)
 2. [Show What You Know: Write and Explain A Program](https://youtu.be/sWH7XdNIsEY)
