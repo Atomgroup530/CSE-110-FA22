@@ -36,7 +36,7 @@ Let me know if we share the same hobby, interest, or career goals :)
 ---
 1. Explain Code:
    
-   https://github.com/Atomgroup530/CSE-110-FA22.git
+   [Link text Here](https://github.com/Atomgroup530/CSE-110-FA22.git)
 2. Explain Repeat:
 
-    https://youtu.be/sWH7XdNIsEY
+   [Link text Here](https://youtu.be/sWH7XdNIsEY)
