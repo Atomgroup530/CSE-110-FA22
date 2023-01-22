@@ -34,9 +34,6 @@ Let me know if we share the same hobby, interest, or career goals :)
 
 ### **Videos**
 ---
-1. Explain Code:
-   
-   [Link text Here](https://github.com/Atomgroup530/CSE-110-FA22.git)
-2. Explain Repeat:
-
-   [Link text Here](https://youtu.be/sWH7XdNIsEY)
+1.  
+   [Show What You Know: Explain Your Program](https://github.com/Atomgroup530/CSE-110-FA22.git)
+2. [Show What You Know: Write and Explain A Program](https://youtu.be/sWH7XdNIsEY)
