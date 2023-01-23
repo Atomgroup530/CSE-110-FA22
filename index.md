@@ -17,6 +17,7 @@
 ---
 1. [Show What You Know: Explain Your Program](https://youtu.be/8Wdxqa5fE68)
 2. [Show What You Know: Write and Explain A Program](https://youtu.be/sWH7XdNIsEY)
+3. [Teaching Programming - Portfolio Lesson Plan](https://youtu.be/th5MZY2jFno)
 
 
 ## **BIO**
