@@ -15,9 +15,10 @@
 
 ### **Videos**
 ---
-1. [Show What You Know: Explain Your Program](https://youtu.be/8Wdxqa5fE68)
-2. [Show What You Know: Write and Explain A Program](https://youtu.be/sWH7XdNIsEY)
+1. [Show What You Know: Explain Your Program - Flamehead Drawing House](https://youtu.be/8Wdxqa5fE68)
+2. [Show What You Know: Write and Explain A Program - Dancer](https://youtu.be/sWH7XdNIsEY)
 3. [Teaching Programming - Portfolio Lesson Plan](https://youtu.be/th5MZY2jFno)
+4. [Show What You Know Write and Explain A Program - Mouse Draw Octagon](https://youtu.be/MnBVV2Lqi24)
 
 
 ## **BIO**
