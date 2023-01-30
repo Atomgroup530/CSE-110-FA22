@@ -22,7 +22,7 @@
 1. [Teaching Programming - Portfolio Lesson Plan - Animal Parade](https://youtu.be/th5MZY2jFno)
 ### Week 3
 1. [Show What You Know Write and Explain A Program - Mouse Draw Octagon](https://youtu.be/MnBVV2Lqi24)
-2. [Show What You Know Write and Explain A Program - Monkey Banana Catch](https://youtu.be/jYuxQGyvHGY)
+2. [Show What You Know Write and Explain A Program - Monkey Banana Catch](https://youtu.be/QGzg-Cc4wio)
 
 
 ## **BIO**
