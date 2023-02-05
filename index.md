@@ -23,6 +23,7 @@
 ### Week 3
 1. [Show What You Know Write and Explain A Program - Mouse Draw Octagon](https://youtu.be/MnBVV2Lqi24)
 2. [Show What You Know Write and Explain A Program - Monkey Banana Catch](https://youtu.be/QGzg-Cc4wio)
+3. [Show What You Know Write and Explain A Program - Variables](https://youtu.be/Us3Q8axOkaQ)
 
 
 ## **BIO**
