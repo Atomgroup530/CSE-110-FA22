@@ -16,18 +16,19 @@
 ## **Videos**
 ---
 ### Week 1
-1. [Show What You Know: Explain Your Program - Flamehead Drawing House](https://youtu.be/8Wdxqa5fE68)
-2. [Show What You Know: Write and Explain A Program - Dancer](https://youtu.be/sWH7XdNIsEY)
+- [Show What You Know: Explain Your Program - Flamehead Drawing House](https://youtu.be/8Wdxqa5fE68)
+- [Show What You Know: Write and Explain A Program - Dancer](https://youtu.be/sWH7XdNIsEY)
 ### Week 2
-1. [Teaching Programming - Portfolio Lesson Plan - Animal Parade](https://youtu.be/th5MZY2jFno)
+- [Teaching Programming - Portfolio Lesson Plan - Animal Parade](https://youtu.be/th5MZY2jFno)
 ### Week 3
-1. [Show What You Know Write and Explain A Program - Mouse Draw Octagon](https://youtu.be/MnBVV2Lqi24)
-2. [Show What You Know Write and Explain A Program - Monkey Banana Catch](https://youtu.be/QGzg-Cc4wio)
+- [Show What You Know Write and Explain A Program - Mouse Draw Octagon](https://youtu.be/MnBVV2Lqi24)
+- [Show What You Know Write and Explain A Program - Monkey Banana Catch](https://youtu.be/QGzg-Cc4wio)
 ### Week 4
-1. [Show What You Know Write and Explain A Program - Variables](https://youtu.be/Us3Q8axOkaQ)
+- [Show What You Know Write and Explain A Program - Variables](https://youtu.be/Us3Q8axOkaQ)
 ### Week 5
-1. [Show What You Know Write and Explain A Program - Catching Ball](https://youtu.be/-xS1bEfl1qY)
-
+- [Show What You Know Write and Explain A Program - Catching Ball](https://youtu.be/-xS1bEfl1qY)
+### Week 6
+- [Show What You Know Write and Explain A Program - Score Ball](https://youtu.be/UUlOHJD9RqQ)
 
 ## **BIO**
 ---
