@@ -32,7 +32,7 @@
 ### Week 7
 - [Show What You Know Write and Explain A Program - Penguin Swim or Build](https://youtu.be/tHq_lmMI-x4)
 ### Week 8
-- [Treausre](https://youtu.be/DjZtJaPEy5A)
+- [Treausre](https://youtu.be/evsPLODhdKE)
 
 ## **BIO**
 ---
